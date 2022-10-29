@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(17, 152, 152);
+}
+
+header{
+    background-color: blueviolet;
+}
+img{
+    width: 120px;
+}
+h3{
+    text-align: center;
+    background-color: beige;
+}
+main {
+   
+  background-color:royalblue ;
+}
+.parrafo{
+    background-color: bisque;
+}
+footer{
+    background-color: rgb(130, 221, 70);
+}
